@@ -1,2 +1,4 @@
 # youtube_app
-Simple Django app that interacts with youtube
+Django app that interacts with youtube
+
+This app will serve as a prototype for youtube integration and functionality.
